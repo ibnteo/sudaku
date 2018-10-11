@@ -8,7 +8,7 @@ In the slide version, we leave the center in one of 8 zones, and return to the c
 
 ## Links
 
-Demo: [sudaku.html](sudaku.html)
+Demo: [sudaku.html](https://ibnteo.github.io/sudaku/sudaku.html)
 
 suDAku Rubik's: [rubik](rubik/)
 

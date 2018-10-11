@@ -8,7 +8,7 @@
 
 ## Ссылки
 
-Демо: [sudaku.html](sudaku.html)
+Демо: [sudaku.html](https://ibnteo.github.io/sudaku/sudaku.html)
 
 суДАку Рубика: [rubik](rubik/)
 
