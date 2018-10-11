@@ -12,7 +12,7 @@ Demo: [sudaku.html](https://ibnteo.github.io/sudaku/sudaku.html)
 
 suDAku Rubik's: [rubik](rubik/)
 
-suDAku Wii Nunchuk: [rubik](wii-nunchuk/)
+Wii Nunchuk: [wii-nunchuk](wii-nunchuk/)
 
 Keyboard Layout Editor: [suDAku](http://www.keyboard-layout-editor.com/#/gists/66cf11e534b3bf6b9f5a4dfff9b15f3e)
 
